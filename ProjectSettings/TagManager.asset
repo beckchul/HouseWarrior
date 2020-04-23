@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - SpawnPoint
+  - Monster
+  - BulletItem
+  - HpItem
+  - WeaponBox
+  - BuffBox
+  - DefenseBox
+  - OpenBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullet
+  - Player
+  - Monster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4217247937
+    locked: 0
+  - name: PlayerDown
+    uniqueID: 677039769
+    locked: 0
+  - name: Player
+    uniqueID: 1223470569
+    locked: 0
+  - name: Bullet
+    uniqueID: 119279961
+    locked: 0
+  - name: PlayerUp
+    uniqueID: 1240335751
+    locked: 0
